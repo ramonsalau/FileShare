@@ -1,0 +1,9 @@
+C:\Users\King\documents\visual studio 2015\Projects\FileShare\FileShare\bin\Release\FileShare.exe.config
+C:\Users\King\documents\visual studio 2015\Projects\FileShare\FileShare\bin\Release\FileShare.exe
+C:\Users\King\documents\visual studio 2015\Projects\FileShare\FileShare\bin\Release\FileShare.pdb
+C:\Users\King\documents\visual studio 2015\Projects\FileShare\FileShare\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\King\documents\visual studio 2015\Projects\FileShare\FileShare\obj\Release\FileShare.Main.resources
+C:\Users\King\documents\visual studio 2015\Projects\FileShare\FileShare\obj\Release\FileShare.Properties.Resources.resources
+C:\Users\King\documents\visual studio 2015\Projects\FileShare\FileShare\obj\Release\FileShare.csproj.GenerateResource.Cache
+C:\Users\King\documents\visual studio 2015\Projects\FileShare\FileShare\obj\Release\FileShare.exe
+C:\Users\King\documents\visual studio 2015\Projects\FileShare\FileShare\obj\Release\FileShare.pdb
